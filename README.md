@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abinesh
 - 👀 I’m interested in full stack developement
-- 🌱 I’m currently learning ux/ui
+- 🌱 I’m currently focusing on ui developement
 - 📫 reach me abineshjanarthanan@gmail.com
 
 <!---
