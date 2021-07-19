@@ -1,5 +1,5 @@
 - 👋 Hi, I’m abinesh
-- 👀 I’m full stack developer
+- 👀 I’m a full stack developer
 - 🌱 I’m currently focusing on ui developement
 - 📫 reach me abineshjanarthanan@gmail.com
 
